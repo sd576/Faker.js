@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Stuart's Stores",
+    "address": {
+      "street": "877 Gabriella Falls",
+      "city": "Mosciskichester",
+      "county": "Dyfed",
+      "postcode": "XD4 2DU",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Stuart's Stores",
+    "address": {
+      "street": "762 Schaden Ports",
+      "city": "North Lolitamouth",
+      "county": "Borders",
+      "postcode": "QP8 5JY",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Stuart's Stores",
+    "address": {
+      "street": "73145 Renner Tunnel",
+      "city": "Melvinborough",
+      "county": "Wiltshire",
+      "postcode": "ZI8 3YL",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stuart's Stores",
+    "address": {
+      "street": "126 Tyrel Plains",
+      "city": "North Yoshikoport",
+      "county": "Humberside",
+      "postcode": "XX6 5OE",
+      "country": "United Kingdom"
+    }
+  }
+]

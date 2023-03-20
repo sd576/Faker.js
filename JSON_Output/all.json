@@ -1,0 +1,282 @@
+const allData = {
+  "stores": [
+    {
+      "id": 1,
+      "name": "Stuart's Stores",
+      "address": {
+        "street": "313 Retha Passage",
+        "city": "North Emelie",
+        "county": "Berkshire",
+        "postcode": "38332-2012",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Stuart's Stores",
+      "address": {
+        "street": "313 Retha Passage",
+        "city": "North Emelie",
+        "county": "Berkshire",
+        "postcode": "38332-2012",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Stuart's Stores",
+      "address": {
+        "street": "313 Retha Passage",
+        "city": "North Emelie",
+        "county": "Berkshire",
+        "postcode": "38332-2012",
+        "country": "United Kingdom"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Stuart's Stores",
+      "address": {
+        "street": "313 Retha Passage",
+        "city": "North Emelie",
+        "county": "Berkshire",
+        "postcode": "38332-2012",
+        "country": "United Kingdom"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Reebok Polo_shirts",
+      "brand": "Reebok",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "Adidas Jogging_bottoms",
+      "brand": "Adidas",
+      "price": 50
+    },
+    {
+      "id": 3,
+      "name": "Adidas T_shirts",
+      "brand": "Adidas",
+      "price": 44
+    },
+    {
+      "id": 4,
+      "name": "Adidas Shorts",
+      "brand": "Adidas",
+      "price": 18
+    },
+    {
+      "id": 5,
+      "name": "Lacoste Shorts",
+      "brand": "Lacoste",
+      "price": 94
+    },
+    {
+      "id": 6,
+      "name": "Lacoste Polo_shirts",
+      "brand": "Lacoste",
+      "price": 61
+    },
+    {
+      "id": 7,
+      "name": "Reebok Polo_shirts",
+      "brand": "Reebok",
+      "price": 39
+    },
+    {
+      "id": 8,
+      "name": "Lacoste Polo_shirts",
+      "brand": "Lacoste",
+      "price": 91
+    },
+    {
+      "id": 9,
+      "name": "Lacoste Jogging_bottoms",
+      "brand": "Lacoste",
+      "price": 90
+    },
+    {
+      "id": 10,
+      "name": "H&M Shorts",
+      "brand": "H&M",
+      "price": 56
+    },
+    {
+      "id": 11,
+      "name": "Ellesse Shorts",
+      "brand": "Ellesse",
+      "price": 80
+    },
+    {
+      "id": 12,
+      "name": "Nike T_shirts",
+      "brand": "Nike",
+      "price": 52
+    },
+    {
+      "id": 13,
+      "name": "Nike T_shirts",
+      "brand": "Nike",
+      "price": 63
+    },
+    {
+      "id": 14,
+      "name": "Adidas Jogging_bottoms",
+      "brand": "Adidas",
+      "price": 92
+    },
+    {
+      "id": 15,
+      "name": "Reebok Jogging_bottoms",
+      "brand": "Reebok",
+      "price": 70
+    },
+    {
+      "id": 16,
+      "name": "Reebok Jogging_bottoms",
+      "brand": "Reebok",
+      "price": 96
+    },
+    {
+      "id": 17,
+      "name": "Reebok Sweatshirts",
+      "brand": "Reebok",
+      "price": 17
+    },
+    {
+      "id": 18,
+      "name": "H&M Socks",
+      "brand": "H&M",
+      "price": 41
+    },
+    {
+      "id": 19,
+      "name": "Ellesse Sweatshirts",
+      "brand": "Ellesse",
+      "price": 98
+    },
+    {
+      "id": 20,
+      "name": "Ellesse Jogging_bottoms",
+      "brand": "Ellesse",
+      "price": 42
+    },
+    {
+      "id": 21,
+      "name": "Adidas Polo_shirts",
+      "brand": "Adidas",
+      "price": 18
+    },
+    {
+      "id": 22,
+      "name": "Lacoste Shorts",
+      "brand": "Lacoste",
+      "price": 82
+    },
+    {
+      "id": 23,
+      "name": "Adidas Polo_shirts",
+      "brand": "Adidas",
+      "price": 75
+    },
+    {
+      "id": 24,
+      "name": "Adidas T_shirts",
+      "brand": "Adidas",
+      "price": 64
+    },
+    {
+      "id": 25,
+      "name": "H&M Sweatshirts",
+      "brand": "H&M",
+      "price": 88
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password1",
+      "email": "user1@example.com",
+      "firstName": "User",
+      "lastName": "1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password2",
+      "email": "user2@example.com",
+      "firstName": "User",
+      "lastName": "2"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "password": "password3",
+      "email": "user3@example.com",
+      "firstName": "User",
+      "lastName": "3"
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "password": "password4",
+      "email": "user4@example.com",
+      "firstName": "User",
+      "lastName": "4"
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "password": "password5",
+      "email": "user5@example.com",
+      "firstName": "User",
+      "lastName": "5"
+    },
+    {
+      "id": 6,
+      "username": "user6",
+      "password": "password6",
+      "email": "user6@example.com",
+      "firstName": "User",
+      "lastName": "6"
+    },
+    {
+      "id": 7,
+      "username": "user7",
+      "password": "password7",
+      "email": "user7@example.com",
+      "firstName": "User",
+      "lastName": "7"
+    },
+    {
+      "id": 8,
+      "username": "user8",
+      "password": "password8",
+      "email": "user8@example.com",
+      "firstName": "User",
+      "lastName": "8"
+    },
+    {
+      "id": 9,
+      "username": "user9",
+      "password": "password9",
+      "email": "user9@example.com",
+      "firstName": "User",
+      "lastName": "9"
+    },
+    {
+      "id": 10,
+      "username": "user10",
+      "password": "password10",
+      "email": "user10@example.com",
+      "firstName": "User",
+      "lastName": "10"
+    }
+  ]
+};

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Lacoste Sweatshirts",
+    "brand": "Lacoste",
+    "price": 22
+  },
+  {
+    "id": 2,
+    "name": "Adidas Socks",
+    "brand": "Adidas",
+    "price": 30
+  },
+  {
+    "id": 3,
+    "name": "Nike Jogging_bottoms",
+    "brand": "Nike",
+    "price": 28
+  },
+  {
+    "id": 4,
+    "name": "Nike Sweatshirts",
+    "brand": "Nike",
+    "price": 49
+  },
+  {
+    "id": 5,
+    "name": "Nike Sweatshirts",
+    "brand": "Nike",
+    "price": 45
+  },
+  {
+    "id": 6,
+    "name": "Nike Shorts",
+    "brand": "Nike",
+    "price": 21
+  },
+  {
+    "id": 7,
+    "name": "Reebok Jogging_bottoms",
+    "brand": "Reebok",
+    "price": 17
+  },
+  {
+    "id": 8,
+    "name": "H&M Polo_shirts",
+    "brand": "H&M",
+    "price": 32
+  },
+  {
+    "id": 9,
+    "name": "H&M Sweatshirts",
+    "brand": "H&M",
+    "price": 25
+  },
+  {
+    "id": 10,
+    "name": "Lacoste Polo_shirts",
+    "brand": "Lacoste",
+    "price": 46
+  },
+  {
+    "id": 11,
+    "name": "Adidas Socks",
+    "brand": "Adidas",
+    "price": 27
+  },
+  {
+    "id": 12,
+    "name": "Lacoste Jogging_bottoms",
+    "brand": "Lacoste",
+    "price": 20
+  },
+  {
+    "id": 13,
+    "name": "Lacoste Socks",
+    "brand": "Lacoste",
+    "price": 35
+  },
+  {
+    "id": 14,
+    "name": "Ellesse Jogging_bottoms",
+    "brand": "Ellesse",
+    "price": 46
+  },
+  {
+    "id": 15,
+    "name": "Nike Socks",
+    "brand": "Nike",
+    "price": 22
+  },
+  {
+    "id": 16,
+    "name": "Lacoste Sweatshirts",
+    "brand": "Lacoste",
+    "price": 12
+  },
+  {
+    "id": 17,
+    "name": "Reebok Polo_shirts",
+    "brand": "Reebok",
+    "price": 25
+  },
+  {
+    "id": 18,
+    "name": "Adidas Polo_shirts",
+    "brand": "Adidas",
+    "price": 24
+  },
+  {
+    "id": 19,
+    "name": "Reebok T_shirts",
+    "brand": "Reebok",
+    "price": 15
+  },
+  {
+    "id": 20,
+    "name": "Reebok Polo_shirts",
+    "brand": "Reebok",
+    "price": 48
+  },
+  {
+    "id": 21,
+    "name": "Reebok Socks",
+    "brand": "Reebok",
+    "price": 11
+  },
+  {
+    "id": 22,
+    "name": "H&M Jogging_bottoms",
+    "brand": "H&M",
+    "price": 22
+  },
+  {
+    "id": 23,
+    "name": "Reebok T_shirts",
+    "brand": "Reebok",
+    "price": 11
+  },
+  {
+    "id": 24,
+    "name": "Nike Sweatshirts",
+    "brand": "Nike",
+    "price": 33
+  }
+]
